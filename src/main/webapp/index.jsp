@@ -8,6 +8,8 @@
 	<h1 style="color: green; font-size: 50px;" align="center">9492168187</h1>
 	<h1 style="color: black; font-size: 30px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
+
+        <h1 style="color: yellow; font-size: 60px;" align="center">PRACTISE MAKES MAN PERFECT</h1>
 	
 	
 	
