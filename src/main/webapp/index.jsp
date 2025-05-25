@@ -4,7 +4,7 @@
 </head>
 <body>
    
-          <title/=my_page>
+        <h1 style="color: oranage; font-size: 30px;' align="center"> BUILD PIPELINE SUCCESSFUL</h1>
 
 	<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<h1 style="color: red; font-size: 30px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h1>
